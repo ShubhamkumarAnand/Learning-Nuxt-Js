@@ -9,9 +9,8 @@
 			<div class="flex flex-col p-8 mr-4 prose bg-white rounded-md min-w-[20ch]">
 				<h3>Chapters</h3>
 			</div>
-			<div class="p-12 prose bg-white rounded-md w-[65ch]">
-				<h2>Lesson</h2>
-				<p>This is a Lesson</p>
+			<div class="p-12 prose bg-green-100 rounded-md w-[65ch]">
+				<NuxtPage />
 			</div>
 		</div>
 	</div>
